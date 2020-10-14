@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.mp4
+.m4s
+.m4a
